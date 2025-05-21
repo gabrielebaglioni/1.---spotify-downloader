@@ -1,0 +1,25 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+# Virtual environment
+venv/
+*.venv
+.env
+
+# IDEs
+.idea/
+.vscode/
+
+# Audio files
+*.mp3
+
+# JSON files
+*.json
