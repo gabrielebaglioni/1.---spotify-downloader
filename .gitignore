@@ -8,7 +8,7 @@ __pycache__
 *.egg-info
 dist
 build
-
+.cache
 # Virtual environment
 venv/
 *.venv
